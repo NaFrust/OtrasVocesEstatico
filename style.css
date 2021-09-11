@@ -74,6 +74,10 @@ body{
     background-color: #545454 ;
     color: #a6a6a6;
 }
+.btn-redes:hover{
+    background-color: #98110e;
+    color: white;
+}
 
 @media (min-width: 768px) { 
     .imgCarrousel{
